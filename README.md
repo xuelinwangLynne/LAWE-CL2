@@ -3,5 +3,5 @@ LAWE-CL2: Multi-agent LLM-based Automated Writing Evaluation System Integrating 
 
 
 ## Appendix
-![image](./Accessing_Writing_Appendix_00.png)
-![image](./Accessing_Writing_Appendix_01.png)
+![image](./Assessing_Writing_Appendix_00.png)
+![image](./Assessing_Writing_Appendix_01.png)
